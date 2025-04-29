@@ -1,0 +1,28 @@
+/* CSS means cascading style sheets */
+/* when attributes appear later in the sheet, the rule is applied on top of earlier rules */
+body {
+    background-color:   lch(66.95% 52.83 163.95 / 0.904);
+    font-family: monospace;
+}    
+
+header {
+background-color: indianred;
+}
+
+h1 {
+    background-color: blue;
+}
+
+main {
+    background-color: green;
+}
+
+footer {
+    background-color: rgb(63, 134, 196);
+}
+/* if we select an element using the tag, all elements with the same tag will get the same style applied */
+button {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: blueviolet;
+    font-size: 2rem;
+}
