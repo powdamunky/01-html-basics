@@ -1,0 +1,76 @@
+body {
+    background-color: rgba(121, 121, 204, 0.822);
+color: black;
+}
+
+nav {
+    background-color: rgb(22, 25, 233);
+    
+}
+
+nav a {
+    color: rgb(97, 199, 199);
+    text-decoration: none;
+    font-size: 40px;
+    padding: 1vh;
+}
+
+nav a:hover {
+    color: azure;
+    text-decoration: underline;
+}
+
+main {
+background-color: blueviolet;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 2vh;
+
+}
+header {
+background-color: rgb(255, 217, 0);
+font-family: fantasy;
+}
+
+.box1  {
+    text-align: center;
+    background-color: yellowgreen;
+    color: aquamarine;
+}
+
+.box2 {
+    align-self: center;
+    align-items: center;
+    background-color: papayawhip;
+    padding: 20px;
+}
+
+.box3 {
+    background-color: orange;
+}
+
+.pizza {
+    align-items: center;
+    border: 20px;
+    border-color: black;
+    border-style: dashed;
+}
+
+.more-button {
+    font-size: 2vh;
+    background-color: white;
+    color: black;
+    border: 2px solid #073122;
+    border-radius: 20px;
+}
+
+.more-button:hover {
+    background-color: turquoise;
+    cursor: pointer;
+}
+
+footer { 
+    background-color: whitesmoke;
+    font-family:Georgia, 'Times New Roman', Times, serif
+
+}
+
