@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body    {
+    background-color: aquamarine;
+}
+
+.box {
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    border: 10px solid black;
+    margin: 10px;
+    padding: 10px;
+
+}
+
+.second-box {
+    background-color: rgb(120, 167, 46);
+    width: 160px;
+    height: 220px;
+    border: 10px black;
+    margin: 10px;
+    padding: 10px;
+    border-style: groove;
+}
+.melons  {
+    height: 640px;
+    width: 800px;
+    padding: 20px;
+    border: 5px dashed rgb(182, 17, 17);
+    margin: 20px;
+}
