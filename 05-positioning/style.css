@@ -3,30 +3,47 @@
     padding: 0;
     box-sizing: border-box;
 }
+body {
+    background-color: aqua;
+}
+
+h1  {
+    color: rgb(219, 235, 52);
+    font-size: 36px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 20;
+}
 
 .image-container {
-    background: #eee;
+    background: #37c640;
   height: 300px;
   width: 300px;
   position: relative;
+  padding: 40px;
 }
 
 .image-container2 {
     background: #b41010;
-  height: 300px;
-  width: 300px;
-  position: relative;
+  height: 480px;
+  width: 640px;
+  position: fixed;
+  padding: 40px;
+  left: 0px;
 }
 
+#potatoes {
+    height: 200px;
+    width: 200px;
+    position: relative;
+}
 #spuds {
     height: 240px;
-    width: 200px;
-}
-h1  {
-    color: rgb(18, 96, 165);
-    font-size: 36px;
-    padding: 20px;
-}
+    width: 400px;
+    position: relative;
+    }
+
 
 h2  {
 color: rgb(60, 112, 157);
@@ -42,6 +59,7 @@ top: 20px;
     padding: 20px;
     position: fixed;
     bottom: 0px;
+    left: 0px;
 }
 
 .buttonacc {

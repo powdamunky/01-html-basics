@@ -1,0 +1,3 @@
+Monday 28/04 - Refelcted on what I had learned that day, and applied it to the website we had been making that day.
+Tuesday 29/04 - As I had missed part of the day I spent the time looking back at what was covered, filling out the missed learning form and returning it to Joe. I then took the time to make some notes and dabble with the workshops I had missed.
+Wednesday 30/04 - During this time I tried to clear up errors I was having with VScode not defaulting to javascript when creating a .js file. It was instead displaying as a pure text file, which caused me issues testing the Javascript we had just learnt. I also took a look at other extensions for VSCode that could help me with visualisation.
