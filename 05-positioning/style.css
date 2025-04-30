@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.image-container {
+    background: #eee;
+  height: 300px;
+  width: 300px;
+  position: relative;
+}
+
+.image-container2 {
+    background: #b41010;
+  height: 300px;
+  width: 300px;
+  position: relative;
+}
+
+#spuds {
+    height: 240px;
+    width: 200px;
+}
+h1  {
+    color: rgb(18, 96, 165);
+    font-size: 36px;
+    padding: 20px;
+}
+
+h2  {
+color: rgb(60, 112, 157);
+font-size: 36px;
+padding: 20px;
+position: absolute;
+top: 20px;
+}
+
+.cookie-notice {
+    background-color: #d8dc1d;
+    font-size: 50px;
+    padding: 20px;
+    position: fixed;
+    bottom: 0px;
+}
+
+.buttonacc {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
+
+.buttonrej {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
