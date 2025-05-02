@@ -1,4 +1,7 @@
-Monday 28/04 - Refelcted on what I had learned that day, and applied it to the website we had been making that day.<br>
-Tuesday 29/04 - As I had missed part of the day I spent the time looking back at what was covered, filling out the missed learning form and returning it to Joe. I then took the time to make some notes and dabble with the workshops I had missed.<br>
-Wednesday 30/04 - During this time I tried to clear up errors I was having with VScode not defaulting to javascript when creating a .js file. It was instead displaying as a pure text file, which caused me issues testing the Javascript we had just learnt. I also took a look at other extensions for VSCode that could help me with visualisation.<br
->
+<br>Monday 28/04 - Refelcted on what I had learned that day, and applied it to the website we had been making that day.
+<br>
+Tuesday 29/04 - As I had missed part of the day I spent the time looking back at what was covered, filling out the missed learning form and returning it to Joe. I then took the time to make some notes and dabble with the workshops I had missed. I don't feel I missed too much, I just tend to panic whenever I miss anything, and what follows is a constant sense of dread that there are now gaps in my learning.
+<br>
+Wednesday 30/04 - During this time I tried to clear up errors I was having with VScode not defaulting to javascript when creating a .js file. It was instead displaying as a pure text file, which caused me issues testing the Javascript we had just learnt. I also took a look at other extensions for VSCode that could help me with visualisation.
+<br>
+Thursday 01/05 - I feel like my understanding is growing, but I still feel like I am a ways behind everyone else in understanding syntax. I am going to look for very accessible information or guides on syntax and best use practices. This is not a reflection on Manny's teaching method, but more so my comprehension or lack thereof. We chatted as a group about job opportunities and the jobsites available in the industry.<br>
